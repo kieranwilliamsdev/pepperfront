@@ -1,0 +1,25 @@
+body {
+    background-color: #222B38;
+    color:#F9FAFC;
+}
+
+.navbar {
+    --bs-bg-opacity: 0;
+}
+
+.page {
+    height: 85vh;
+    border-radius: 3%;
+}
+
+.page img {
+    height: 100%;
+    width:100%;
+    object-fit: cover;
+    border-radius: 3%;
+    opacity: 0.7;
+}
+
+.yellow {
+    background-color: darkgoldenrod;
+}
